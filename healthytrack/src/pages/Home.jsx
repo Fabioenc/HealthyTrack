@@ -12,7 +12,7 @@ function Home() {
         <div className="container-fluid py-5 text-center">
           <h1 className="display-5 fw-bold">Tu versión más saludable</h1>
           <p className="col-lg-8 mx-auto fs-5">
-            Caminatas, gym, buena comida y constancia. Te muestro lo que me funcionó.
+            Caminatas, gym, buena comida y constancia. Te muestro lo que me funcionó. XOXO
           </p>
           <div className="d-flex justify-content-center gap-3 flex-wrap mt-4">
             <a href="/join" className="btn btn-light btn-lg fw-semibold">Quiero empezar</a>
